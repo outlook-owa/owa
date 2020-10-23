@@ -1,5 +1,5 @@
 <?
 
-$to = "admin@owa-wa.com";
+$to = "davsmith5621@aol.com";
 
 ?>
